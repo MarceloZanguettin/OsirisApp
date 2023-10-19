@@ -1,2 +1,4 @@
 @import "./global/global.css";
-@import "./global/header.css";
+
+/* Pagina Inicial */
+@import "./home/body.css";
